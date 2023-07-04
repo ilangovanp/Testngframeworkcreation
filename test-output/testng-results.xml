@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-04T14:05:07 IST" name="Default suite" finished-at="2023-07-04T14:05:15 IST" duration-ms="7309">
+    <groups>
+    </groups>
+    <test started-at="2023-07-04T14:05:07 IST" name="Default test" finished-at="2023-07-04T14:05:15 IST" duration-ms="7309">
+      <class name="testsuites.TestNewOpp">
+        <test-method is-config="true" signature="browseropening()[pri:0, instance:testsuites.TestNewOpp@4c12331b]" started-at="2023-07-04T14:05:07 IST" name="browseropening" finished-at="2023-07-04T14:05:11 IST" duration-ms="3297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseropening -->
+        <test-method signature="excelread([Ljava.lang.String;)[pri:0, instance:testsuites.TestNewOpp@4c12331b]" started-at="2023-07-04T14:05:11 IST" name="excelread" data-provider="datasendingmethod" finished-at="2023-07-04T14:05:12 IST" duration-ms="422" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@3965bdf9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelread -->
+        <test-method is-config="true" signature="failurescreenshot(org.testng.ITestResult)[pri:0, instance:testsuites.TestNewOpp@4c12331b]" started-at="2023-07-04T14:05:12 IST" name="failurescreenshot" finished-at="2023-07-04T14:05:12 IST" duration-ms="161" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=excelread status=SUCCESS method=TestNewOpp.excelread([Ljava.lang.String;)[pri:0, instance:testsuites.TestNewOpp@4c12331b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failurescreenshot -->
+        <test-method signature="excelread([Ljava.lang.String;)[pri:0, instance:testsuites.TestNewOpp@4c12331b]" started-at="2023-07-04T14:05:12 IST" name="excelread" data-provider="datasendingmethod" finished-at="2023-07-04T14:05:12 IST" duration-ms="211" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@3c0e00a8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelread -->
+        <test-method is-config="true" signature="failurescreenshot(org.testng.ITestResult)[pri:0, instance:testsuites.TestNewOpp@4c12331b]" started-at="2023-07-04T14:05:12 IST" name="failurescreenshot" finished-at="2023-07-04T14:05:12 IST" duration-ms="306" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=excelread status=SUCCESS method=TestNewOpp.excelread([Ljava.lang.String;)[pri:0, instance:testsuites.TestNewOpp@4c12331b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failurescreenshot -->
+        <test-method signature="excelread([Ljava.lang.String;)[pri:0, instance:testsuites.TestNewOpp@4c12331b]" started-at="2023-07-04T14:05:12 IST" name="excelread" data-provider="datasendingmethod" finished-at="2023-07-04T14:05:13 IST" duration-ms="497" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@7f7b6639]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelread -->
+        <test-method is-config="true" signature="failurescreenshot(org.testng.ITestResult)[pri:0, instance:testsuites.TestNewOpp@4c12331b]" started-at="2023-07-04T14:05:13 IST" name="failurescreenshot" finished-at="2023-07-04T14:05:13 IST" duration-ms="313" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=excelread status=SUCCESS method=TestNewOpp.excelread([Ljava.lang.String;)[pri:0, instance:testsuites.TestNewOpp@4c12331b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failurescreenshot -->
+        <test-method signature="excelread([Ljava.lang.String;)[pri:0, instance:testsuites.TestNewOpp@4c12331b]" started-at="2023-07-04T14:05:13 IST" name="excelread" data-provider="datasendingmethod" finished-at="2023-07-04T14:05:14 IST" duration-ms="388" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@5d0b0cb9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelread -->
+        <test-method is-config="true" signature="failurescreenshot(org.testng.ITestResult)[pri:0, instance:testsuites.TestNewOpp@4c12331b]" started-at="2023-07-04T14:05:14 IST" name="failurescreenshot" finished-at="2023-07-04T14:05:14 IST" duration-ms="578" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=excelread status=SUCCESS method=TestNewOpp.excelread([Ljava.lang.String;)[pri:0, instance:testsuites.TestNewOpp@4c12331b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failurescreenshot -->
+        <test-method signature="excelread([Ljava.lang.String;)[pri:0, instance:testsuites.TestNewOpp@4c12331b]" started-at="2023-07-04T14:05:14 IST" name="excelread" data-provider="datasendingmethod" finished-at="2023-07-04T14:05:14 IST" duration-ms="120" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@16ac5d35]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelread -->
+        <test-method is-config="true" signature="failurescreenshot(org.testng.ITestResult)[pri:0, instance:testsuites.TestNewOpp@4c12331b]" started-at="2023-07-04T14:05:14 IST" name="failurescreenshot" finished-at="2023-07-04T14:05:15 IST" duration-ms="283" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=excelread status=SUCCESS method=TestNewOpp.excelread([Ljava.lang.String;)[pri:0, instance:testsuites.TestNewOpp@4c12331b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failurescreenshot -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testsuites.TestNewOpp@4c12331b]" started-at="2023-07-04T14:05:15 IST" name="teardown" finished-at="2023-07-04T14:05:15 IST" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testsuites.TestNewOpp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
